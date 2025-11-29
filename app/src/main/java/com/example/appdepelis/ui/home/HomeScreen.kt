@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.dp
 import com.example.appdepelis.data.model.Movie
 import com.example.appdepelis.ui.common.MovieFormats
 import com.example.appdepelis.ui.common.MovieValidation
-import com.example.appdepelis.ui.home.components.MovieItem
+import com.example.appdepelis.ui.componentes.MovieItem
 import com.example.appdepelis.ui.movies.MoviesViewModel
 import java.util.*
 
