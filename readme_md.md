@@ -41,11 +41,6 @@ git clone https://github.com/tu-usuario/app-de-pelis.git
 
 ---
 
-## 📸 Capturas
-
-| Pantalla Principal | Detalle | Ajustes |
-|:------------------:|:-------:|:-------:|
-| ![Home](docs/screenshots/home.png) | ![Detail](docs/screenshots/detail.png) | ![Settings](docs/screenshots/settings.png) |
 | Lista con búsqueda y filtros | Info completa + edición | Preferencias con DataStore |
 
 **Características visuales:**
