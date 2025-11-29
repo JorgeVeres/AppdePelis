@@ -138,7 +138,7 @@ object ServiceLocator {
 - Múltiples ordenamientos
 - Sistema de favoritos
 - Validaciones exhaustivas
-- Tema oscuro/claro
+- Tema oscuro/claro (no funciona, pero si cambias el del sitema si)
 
 ---
 
